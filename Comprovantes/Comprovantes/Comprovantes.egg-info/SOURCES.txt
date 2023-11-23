@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+Comprovantes/__init__.py
+Comprovantes/__main__.py
+Comprovantes/bot.py
+Comprovantes.egg-info/PKG-INFO
+Comprovantes.egg-info/SOURCES.txt
+Comprovantes.egg-info/dependency_links.txt
+Comprovantes.egg-info/requires.txt
+Comprovantes.egg-info/top_level.txt
+Comprovantes/resources/start.png
