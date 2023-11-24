@@ -4,3 +4,6 @@ botcity-framework-core>=0.4.0,<1.0
 #botcity-utils>=0.1.2
 # Uncomment to use botcity-crawler-plugin
 #botcity-crawler-plugin
+pandas~=2.1.1
+python-dotenv~=1.0.0
+
